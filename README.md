@@ -1,4 +1,4 @@
-# 3-Phase-Induction-Motor-Fault-Diagnosis-Using-LRNN
+# 3-Phase-Induction-Motor-Fault-Diagnosis-Using-Layer Recurrent Neural Networks
 Layer Recurrent Neural Network Based External Fault Diagnosis Model for Three Phase Induction Motor Using Current Signature Analysis
 
 
